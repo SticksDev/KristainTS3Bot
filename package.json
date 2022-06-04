@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@jakeyprime/logger": "^1.0.5",
+    "better-sqlite3": "^7.5.3",
+    "dotenv": "^16.0.1",
+    "node-ts": "^5.1.2",
+    "quick.db": "^9.0.2",
+    "teamspeak-commander": "^0.1.2",
+    "ts3-nodejs-library": "^3.4.1"
+  }
+}
